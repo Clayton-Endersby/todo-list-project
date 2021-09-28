@@ -1,0 +1,23 @@
+{
+  "name": "todo-list-project",
+  "version": "1.0.0",
+  "description": "Todo list project assignment",
+  "default": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx parcel src/index.html",
+    "build": "npx parcel build src/index.html"
+  },
+  "author": "Clayton Endersby",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^13.0.2",
+    "parcel": "^2.0.0-rc.0",
+    "sass": "^1.42.1"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "lodash": "^4.17.21",
+    "uuid": "^8.3.2"
+  }
+}
