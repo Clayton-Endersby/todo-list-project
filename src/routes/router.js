@@ -1,5 +1,5 @@
-import homePage from "../pages/homePage";
-// import  from "../pages/toDolist";
+import homePage from "./pages/homePage";
+// import  from "../pages/toDoPage";
 
 const routes = {
     '/':homePage(),
