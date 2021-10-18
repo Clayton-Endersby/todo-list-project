@@ -1,3 +1,3 @@
-import Router from './routes/Router'
+import Router from "/routes/router.js"
 
 Router('/login')
