@@ -1,11 +1,9 @@
 import homePage from "../pages/homePage";
-import signUpPage from "../pages/signUpPage";
-import loginPage from "../pages/loginPage";
+// import  from "../pages/toDolist";
 
 const routes = {
     '/':homePage(),
-    '/login':loginPage(),
-    '/signUp':signUpPage(),
+    '/toDos':toDoPage(),
 }
 
 const Router = function (pathname) {

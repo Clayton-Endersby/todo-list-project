@@ -6,7 +6,7 @@ const homePage = function () {
 
     const header = document.createElement('header')
     const h1 = levelHeading('h1', 'Home Page')
-    const login = link("To Do's", '/toDos')
+    const toDos = link("To Do's", '/toDos')
     header.append(h1)
     header.append(toDos)
 
