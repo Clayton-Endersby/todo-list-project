@@ -1,3 +1,1 @@
-import Router from "/routes/router.js"
-
-Router('/login')
+import Router from "routes/router.js"
