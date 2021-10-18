@@ -1,3 +1,3 @@
-import Router from './routes/router'
+import Router from './routes/Router'
 
 Router('/login')
