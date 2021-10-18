@@ -1,4 +1,4 @@
-import homePage from "../js/pages/homePage";
+import homePage from "../pages/homePage";
 // import  from "../pages/toDoPage";
 
 const routes = {
