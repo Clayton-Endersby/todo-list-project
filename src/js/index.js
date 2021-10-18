@@ -1,1 +1,1 @@
-import Router from "routes/router.js"
+import Router from "./routes/router"
