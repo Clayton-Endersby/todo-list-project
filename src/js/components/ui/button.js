@@ -5,8 +5,6 @@ const button = function (label="ui button", className="ui-button"){
      const element = makeElement(template);
 
      return element
-
-     
 }
 
 export default button

@@ -1,3 +1,3 @@
 import Router from "./routes/router"
 
-Router('/')
+// Router('/')

@@ -6,10 +6,10 @@ const homePage = function () {
 
     const header = document.createElement('header')
     const h1 = levelHeading('h1', 'The Great Canadian ToDo List')
-    const h3 = levelHeading('h3', "No friggin around!")
+    const h2 = levelHeading('h2', "No friggin around!")
     const toDos = link("To Do's", '/toDos')
     header.append(h1)
-    header.append(h3)
+    header.append(h2)
     header.append(toDos)
 
     return header

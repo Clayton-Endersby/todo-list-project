@@ -3,13 +3,13 @@
         "id":"qw3er57u",
         "category":"home",
         "description":"short description of the to do",
-        "isComplete":true
+        "isComplete":false
     },
     {
         "id":"kj7sy21l",
         "category":"school",
         "description":"short description of the to do",
-        "isComplete":true
+        "isComplete":false
     },
     {
         "id":"v7d243c8",
@@ -21,7 +21,7 @@
         "id":"ds687ds2",
         "category":"friends",
         "description":"short description of the to do",
-        "isComplete":true
+        "isComplete":false
     }
     ,
     {
